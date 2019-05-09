@@ -1,2 +1,2 @@
-# Big-Boi
+# Curriculum
 Curriculum Carlos Alvarado
